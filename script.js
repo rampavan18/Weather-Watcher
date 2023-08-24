@@ -1,20 +1,3 @@
-/*
- 🔥 APP: Weather App
-
- These are the promises you'll need to create
- =============================================
-    1. currentWeather - Gets the current weather
-    2. forecast - Gets 5 day forecast
-
-These are all the functions you'll need to build
-================================================
-    1. getWeatherData() - Runs both promises then updates the DOM by running...
-    2. updateDom() - Updates the DOM with the data from the promises and runs the...
-    3. renderChart() - Renders the chart with the data from the promises
-
-    4. getDirection() - Returns a cardinal direction based on the degree passed in
-        - this will be a helper function only
- */
 
 // Get DOM Elements
 // Hint: All required elements have an ID attribute in the HTML file (a total of 17 elements)
